@@ -48,25 +48,30 @@ h2 {
 
 .btn-primary {
 	border-radius: 15px;
+	background-color: #FF7C00;
+	border-color: #FF7C00;
+}
+
+.btn-primary:hover {
+	background-color: #484848;
 }
 
 html, body{
 	height: 100%;
 }
 body { 
-	background-image: url(http://glimpsesofcharleston.com/wp-content/uploads/2015/02/french-fries17908686_lrg.jpg) ;
 	background-position: center center;
 	background-repeat:  no-repeat;
 	background-attachment: fixed;
 	background-size:  cover;
-	background-color: #000000;  
+	background-color: #FFFFFF;  
 }
 
 div, body{
 	margin: 0;
 	padding: 0;
-	font-family: exo, sans-serif;
-	color: black;
+	font-family: sans-serif;
+	color: #FF7C00;
 }
 
 .footer {
